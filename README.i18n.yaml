@@ -1,0 +1,67 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/llm/token-efficiency/README.md
+/:
+  en: 2d0df2a04ee8cdb9
+  zh: 7b7ea7065c493c83
+/deepseek-ai-dsh-token-efficiency:
+  en: 78f6b3245eba0137
+  zh: 909b6b381854efe9
+/deepseek-ai-dsh-token-efficiency/summary:
+  en: fbcbab8a811d69e4
+  zh: cda6c908bd285a0e
+/deepseek-ai-dsh-token-efficiency/table-of-contents:
+  en: d152484eb41ac6b4
+  zh: 09388d293f9be9cb
+/deepseek-ai-dsh-token-efficiency/use-this-package:
+  en: 983282fc4cec0347
+  zh: 7ba80d074e12d532
+/deepseek-ai-dsh-token-efficiency/use-this-package/when-to-choose-it:
+  en: ebe5169c82453a28
+  zh: 2f2e5ffc3b5999c9
+/deepseek-ai-dsh-token-efficiency/use-this-package/minimal-configuration:
+  en: ab78a2ab8ac745d4
+  zh: 6925064b691b7bc6
+/deepseek-ai-dsh-token-efficiency/understand-the-implementation:
+  en: 2cafe3e41fec0f29
+  zh: 906725a8f1106438
+/deepseek-ai-dsh-token-efficiency/further-exploration:
+  en: 248a016db243aaf3
+  zh: c3913cfde10258f0
+/deepseek-ai-dsh-token-efficiency/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-token-efficiency/model-experience/efficient-native-discovery:
+  en: d58757b57782725e
+  zh: 2d46df15c6436dcb
+/deepseek-ai-dsh-token-efficiency/model-experience/efficient-native-discovery/what-the-model-sees:
+  en: e68c41c47e76ff94
+  zh: 1fb49a3bd5a1cd5a
+/deepseek-ai-dsh-token-efficiency/model-experience/efficient-native-discovery/what-the-model-sees/discovery-tool-description:
+  en: 1fcbe42caf4aca95
+  zh: a531d27c825d7cc5
+/deepseek-ai-dsh-token-efficiency/model-experience/efficient-native-discovery/token-effect:
+  en: 4739a205e3aa6f55
+  zh: aab6b12991ed532b
+/deepseek-ai-dsh-token-efficiency/model-experience/efficient-native-discovery/kv-cache-effect:
+  en: 39ae0aa595ad15da
+  zh: 3892ffa0bb6741d0
+/deepseek-ai-dsh-token-efficiency/model-experience/cost-saving-tool-selection:
+  en: ef6678d5174331ac
+  zh: d00fd54fb8464985
+/deepseek-ai-dsh-token-efficiency/model-experience/cost-saving-tool-selection/what-the-model-sees:
+  en: ed91210c90283afd
+  zh: 79fbe8eab8632777
+/deepseek-ai-dsh-token-efficiency/model-experience/cost-saving-tool-selection/token-effect:
+  en: 400a4a0cf74aac76
+  zh: 184f57c9af90b4a2
+/deepseek-ai-dsh-token-efficiency/model-experience/cost-saving-tool-selection/kv-cache-effect:
+  en: 6e751fb001d7a233
+  zh: 07811131ac91ea6b
+/deepseek-ai-dsh-token-efficiency/known-limitations-and-deferred-work:
+  en: 0a3a9cc064fd1554
+  zh: 3205d817b962fbdd
+/deepseek-ai-dsh-token-efficiency/known-limitations-and-deferred-work/dev-note:
+  en: d8ed0a50718d2fbe
+  zh: 92a52bc548498bc6
